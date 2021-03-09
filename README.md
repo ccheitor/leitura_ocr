@@ -1,1 +1,1 @@
-# leitura_ocr
+# leitura de imagem com OCR
